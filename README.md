@@ -2,7 +2,6 @@
 
 A Learning Management System built with React for JRT System.
 
----
 
 ## Project Structure
 
@@ -28,13 +27,11 @@ jrt-lms/
 
 ```bash
 npm install
-```
 
 ### Run the Project
 
 ```bash
 npm start
-```
 
 The application will run on:
 
@@ -53,7 +50,6 @@ http://localhost:3000
 * Free Trial Request Form
 * Password Reset Functionality
 
----
 
 ## Pages
 
@@ -66,7 +62,6 @@ http://localhost:3000
 * Forgot Password
 * Reset Password
 
----
 
 ## Tech Stack
 
@@ -75,6 +70,5 @@ http://localhost:3000
 * Context API
 * CSS
 
----
 
 
