@@ -35,7 +35,6 @@ npm start
 
 The application will run on:
 
-```text
 http://localhost:3000
 ```
 
